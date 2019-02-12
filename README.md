@@ -1,7 +1,7 @@
 # Kilogram-Conversion-Calculator
 Input Kilograms to convert it to grams, pounds and ounces. 
 
-Please DO:
+Please Do:
 Install tkinter to run program.
 -----------------------------------------------------------
 What I Learned:
